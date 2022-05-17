@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SofdesRegex (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SofdesRegex (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
